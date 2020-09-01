@@ -27,3 +27,5 @@ from ctypes import c_double, c_char
 
 data_c_double = c_double(10.6)
 print("Data : ", data_c_double, "Bertipe : ", type(data_c_double))
+
+### Ini latihan Type Data
