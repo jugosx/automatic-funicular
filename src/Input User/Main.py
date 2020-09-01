@@ -19,3 +19,5 @@ print("Data = " ,data_float, "Type" ,type(data_float))
 
 biner = bool(int(input("Masukan Nilai: ")))
 print("Data = " ,biner, "Type" ,type(biner))
+
+### Ini latihan input user
