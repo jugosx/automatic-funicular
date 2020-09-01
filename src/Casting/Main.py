@@ -28,7 +28,7 @@ print("Data : ", data_int, "Bertipe : ", type(data_int))
 print("Data : ", data_str, "Bertipe : ", type(data_str))
 print("Data : ", data_bool, "Bertipe : ", type(data_bool))#akan False juka nilai int =0
 
-print("====BOOLEAN====")
+print("====BOOLEAN=====")
 #BOOLEAN
 data_bool = True
 print("Data : ", data_bool, "Bertipe : ", type(data_bool))
