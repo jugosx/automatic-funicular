@@ -25,3 +25,6 @@ print("Nilai a = ", a)
 #assignment indirect
 b = a
 print("Nilai b = ", a)
+
+
+###Ini latihan Variable
